@@ -1,0 +1,38 @@
+*{
+  margin: auto;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+li{
+  text-decoration:none;
+  list-stylesheet: none;
+}
+body{
+margin-top: 60px;  font-family: 'Raleway', sans-serif;
+}
+nav{
+  margin: auto;
+  width: 800 px;
+  height: 100px;
+  text-align: center;
+}
+nav a{
+  color: #000;
+  font-size: 24px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.logo{
+  display: flex;
+  justify-content: space-between;
+}
+.menu{
+  margin-top: 60px;
+  text-align: center;
+}
+.form-inline{
+  margin-top: 60px;
+}
+
